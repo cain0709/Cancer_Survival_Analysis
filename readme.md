@@ -42,9 +42,3 @@ $/
 1. 'python testing.py --Predict'
 	1. 코드내에 설정된 모델 이름에 해당하는 모을 불러오고, 해당 모델로 추론
 2. '/USER/baseline/results/predict/' 내에 결과 csv 파일 생성
-
-# Cancer_Survival_Analysis
-# Cancer_Survival_Analysis
-# Cancer_Survival_Analysis
-# Cancer_Survival_Analysis
-# Cancer_Survival_Analysis
